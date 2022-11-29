@@ -14,8 +14,8 @@ Buat Dictionary daftar kontak
 - Hapus kontak DARTO.
 
 # PROGRAM
-![img.1](poto/1.png)
-![img.2](poto/2.png)
+![img.1](poto/2022-11-29%20(12).png)
+![img.2](poto/2022-11-29%20(13).png)
 # HASIL OUTPUT
 ![img.3](poto/3.png)
 
