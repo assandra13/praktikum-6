@@ -29,7 +29,7 @@ print("|    Roko    | ", kontak['Roko'], '|')
 print("===========================")
 print()
 
-# Ubah kontak Dina dengan nomor baru 088999776
+# Ubah kontak Darto dengan nomor baru 088999776
 print("# Ubah kontak Darto dengan nomor baru 088999776")
 kontak['Darto'] = '088999776'
 print("===========================")
